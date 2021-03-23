@@ -8,6 +8,7 @@ System.out.println("Enter the value of b");
 int b=sg.nextInt();
 int c=a+b;
   //it is changed
+  //it is changed by collaborator
 System.out.println("Addition of a and are:"+c);
 }
 }
