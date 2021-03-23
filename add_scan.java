@@ -7,6 +7,7 @@ int a=sg.nextInt();
 System.out.println("Enter the value of b");
 int b=sg.nextInt();
 int c=a+b;
+  //it is changed
 System.out.println("Addition of a and are:"+c);
 }
 }
